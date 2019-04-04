@@ -1,0 +1,5 @@
+audio = require "lgc.audio"
+control = require "lgc.control"
+data = require "lgc.data"
+font = require "lgc.font"
+image = require "lgc.image"
